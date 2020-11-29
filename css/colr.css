@@ -1,0 +1,56 @@
+
+div{
+
+}
+h1{
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;;
+
+}
+
+
+#a{
+    border-style: solid;
+    border-color: indianred;
+    width:  200px;
+    height: 500px;
+    background-color: indianred;
+    margin-left: 300px;
+    margin-top: 50px;
+    }
+
+#b{
+    border-style: solid;
+    border-color:rgb(205, 188, 92) ;
+    width:  200px;
+    height: 500px;
+    background-color: rgb(205, 188, 92);
+    margin-left: 500px;
+    margin-top: -506px;
+    
+        }
+
+
+ #c{
+    border-style: solid;
+    border-color :rgb(8, 184, 66);
+    width:  200px;
+    height: 500px;
+    background-color: rgb(8, 184, 66);
+    margin-left: 700px;
+    margin-top: -506px;
+   
+            }
+
+
+
+ #d{
+    border-style: solid;
+    border-color :rgb(92, 94, 205);
+    width:  200px;
+    height: 500px;
+    background-color: rgb(92, 94, 205);
+    margin-left: 900px;
+    margin-top: -506px;
+
+}

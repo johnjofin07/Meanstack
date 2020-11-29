@@ -1,0 +1,54 @@
+#main{
+
+    width: auto;
+    height: 100%;
+    background-color: rgb(242, 242, 243);
+    border-style: solid;
+}
+
+#img{
+
+    width: 455px;
+    height: 550px;
+    padding-left: 140px;
+    padding-top: 180px;
+    margin-bottom: -40%;
+    border-style: solid;
+}
+#txt{
+    padding-left: 170px;
+    border-style: solid;
+    
+}
+#left{
+    padding-right: 50%;
+    border-style: solid;
+
+}
+#lgform{
+    width: 400px;
+    height: 300px;
+    margin-right: 25%;
+    margin-top: -10%;
+    border-style: solid;
+
+}
+
+#right{
+    margin-left: 40%;
+    margin-top: -15%;
+    border-style: solid;
+
+}
+#forg{
+    color: blue;
+    text-align: center;
+    margin-top: 5%;
+    border-style: solid;
+
+}
+#b2{
+    margin-left: 28%;
+    border-style: solid;
+
+}

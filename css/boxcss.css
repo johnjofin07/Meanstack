@@ -1,0 +1,26 @@
+#top{
+    border-style: solid;
+    border-color: grey;
+    border-width: 20%;
+    width: 40%;
+    text-align: center;
+    margin-left: 25%;
+    background-color: palegreen;
+
+}
+#bottom{
+    border-style: solid;
+    border-color: grey;
+    border-width: 20%;
+    width: 40%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 10%;
+    background-color: palevioletred;
+    
+
+}
+h1{
+    font-family: 'Architects Daughter', cursive;
+  
+}
