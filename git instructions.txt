@@ -1,0 +1,8 @@
+-> right click on git bash here after entering into respected folder
+
+->git init								-Initialize git
+->git status								-To get untracked files
+->git add -A								-To add to staging area
+->git commit -m "first commit"						-To get files into local repository
+->git remote add mean https://github.com/johnjofin07/Meanstack.git	-Establish a link b/w local and remote reposiory
+->git push mean master							-Push mean into git
